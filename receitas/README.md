@@ -4,6 +4,6 @@ Ola! Bem vindo ao livro de receitas
 
 - Lasanha 
 
-- PUDIM
+- pudim
 
   
